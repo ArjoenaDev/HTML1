@@ -1,6 +1,6 @@
-# HTML1
-## This is my first HTML file
-### this is
-#### this
-##### Hallo
-###### hello
+# HTML
+## Why use html?
+### I use html because is so easy to learn 
+# 
+## What html it is?
+### HTML (HyperText Markup Language) is a standard language used to create and structure the basic structure of web pages. This is not a programming language, but rather a markup (marker) language that uses certain codes (called tags) so that web browsers can display text, images and other elements. Main FunctionHTML functions as the framework or foundation of a website. You can imagine HTML like a human skeleton, which will then be covered with skin (CSS) and given the ability to move (JavaScript). Specifically, HTML is used to: Display text, paragraphs, and titles (headings). for the title. You open the file in a browser (such as Google Chrome or Mozilla Firefox). The browser will read the HTML code and forward it into a neat visual display that is easy for the user to read. To start learning and see various code examples, you can read the basic guide on the Hostinger HTML Tutorial or see the explanation transmitted from the Dicoding Blog
